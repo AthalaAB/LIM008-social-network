@@ -9,8 +9,8 @@ export const pageSignIn = () => {
                             <input class= "space" id="email2" type="email" placeholder="Correo electrónico" required>
                             <input class= "space" id="password2" type="password" placeholder="Contraseña" required>
                             <div id="message"><P>Usuario o contraseña incorrectos</P></div>
-                            <button class="button space" id= "btn-log-in">Iniciar sesión</button>
-                            <button class="button google space" id= "google-button"><img src="imgs/google-logo.png" alt="Google">Iniciar sesión con Google</button>
+                            <button class="button space login-button color-white" id= "btn-log-in">Iniciar sesión</button>
+                            <button class="button google space" id= "google-button"><img class= "middle" src="imgs/google-logo.png" alt="Google">Iniciar sesión con Google</button>
                         </div>
                         <div class="pets-signup">
                             <img class="pets" src="imgs/pets.png" alt="pets">

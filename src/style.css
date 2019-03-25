@@ -65,15 +65,20 @@ button, a{
 .button img {
   width: 22px;
 }
+.login-button{
+  background: #1698A0;
+}
 .space{
   font-size: 16px;
   width: 100%;
   margin-bottom: 20px;
  }
 .google{
-  vertical-align: middle;
   background: rgb(240, 240, 240);
   color: #333333;
+}
+.middle{
+  vertical-align: middle;
 }
 .sign-post-btn{
   background: #1698A0;
